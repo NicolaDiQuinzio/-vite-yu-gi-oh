@@ -4,7 +4,7 @@
         <div class="bg-card text-center ">
             <img class="img-fluid" :src="character.card_images[0].image_url" alt="">
             <h4>{{ character.name }}</h4>
-            <p>{{ character.race }}</p>
+            <p>{{ character.archetype}}</p>
         </div>
     </div>  
 </template>

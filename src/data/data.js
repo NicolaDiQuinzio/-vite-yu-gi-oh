@@ -4,7 +4,10 @@ export const store= reactive({
     
     cardList: [],
     Url: 'https://db.ygoprodeck.com/api/',
-    endPoint: ''
-   
-  }
-)
+    endPoint: '',
+    search: {
+        archetype: '',
+        name: ''
+    }
+})
+ 

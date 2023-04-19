@@ -1,5 +1,5 @@
 <template>
-     <div class="d-flex align-items-center ps-2 pt-3 pe-2 pb-3">
+     <div class="d-flex align-items-center ps-2 pe-2 pb-3">
         <div class="pe-2">
             <img src="../assets/Yugioh_anime_logo.webp" alt="">
         </div>
